@@ -1,0 +1,56 @@
+font-family = "Source Code Pro"
+
+
+window-decoration = false
+window-theme = system
+
+# active_border_color = #4799ff
+# inactive_border_color = #5e5c64
+#
+# active_tab_foreground = #ffffff
+# active_tab_background = #0087af
+# inactive_tab_foreground = #d0cfcc
+# inactive_tab_background = #5e5c64
+
+foreground = #ffffff
+background = #1e1e1e
+
+palette = 0=#171421
+palette = 8=#5e5c64
+
+#: black
+
+palette = 1=#c01c28
+palette = 9=#f66151
+
+#: red
+
+palette = 2=#26a269
+palette = 10=#33d17a
+
+#: green
+
+palette = 3=#a2734c
+palette = 11=#e9ad0c
+
+#: yellow
+
+palette = 4=#11478b
+palette = 12=#297bde
+
+#: blue
+
+palette = 5=#a347ba
+palette = 13=#c061cb
+
+#: magenta
+
+palette = 6=#2aa1b3
+palette = 14=#33c7de
+
+#: cyan
+
+palette = 7=#d0cfcc
+palette = 15=#ffffff
+
+
