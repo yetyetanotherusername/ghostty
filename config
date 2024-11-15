@@ -5,6 +5,8 @@ font-size = 10
 window-decoration = false
 window-theme = system
 
+cursor-style-blink = false
+
 foreground = #ffffff
 background = #1e1e1e
 
