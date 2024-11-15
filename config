@@ -7,6 +7,9 @@ window-theme = system
 
 cursor-style-blink = false
 
+shell-integration = bash
+shell-integration-features = no-cursor
+
 foreground = #ffffff
 background = #1e1e1e
 
