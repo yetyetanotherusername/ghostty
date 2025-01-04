@@ -2,7 +2,6 @@ font-family = "Source Code Pro"
 font-size = 10
 font-thicken = true
 
-window-decoration = false
 window-theme = system
 
 cursor-style-blink = false
